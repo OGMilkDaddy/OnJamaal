@@ -1,6 +1,6 @@
 @media (max-width: 600px){
 body{
-    background: rgb(155, 161, 157);
+    background: rgb(211, 211, 211);
 }
 .material-symbols-outlined{
     text-align: right;
@@ -83,7 +83,7 @@ footer{
 
 @media (min-width: 601px){
 body{
-    background: rgb(155, 161, 157);
+    background: rgb(211, 211, 211);
 }
 .material-symbols-outlined{
     text-align: right;
@@ -164,5 +164,6 @@ footer{
     text-align: center;
 
 }}
+
 
 
