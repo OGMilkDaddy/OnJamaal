@@ -1,6 +1,6 @@
 @media (max-width: 600px){
 body{
-    background: rgb(11, 87, 208);
+    background: rgb(#909090);
 }
 .material-symbols-outlined{
     text-align: right;
@@ -162,4 +162,5 @@ nav a{
 }
 footer{
     text-align: center;
+
 }}
