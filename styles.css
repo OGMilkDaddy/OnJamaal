@@ -45,6 +45,12 @@ nav a{
     text-align: center;
     color: rgb(0, 29, 53);
 }
+.Merch {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(0, 29, 53);
+}
 .images {
   display: flex;
   flex-wrap: wrap;
@@ -164,6 +170,7 @@ footer{
     text-align: center;
 
 }}
+
 
 
 
